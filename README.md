@@ -1,5 +1,6 @@
 
 # TANZANIA-WATER-POINTS PREDICTION USING CLASSIFICATION MODELS
+![tz 2](https://user-images.githubusercontent.com/104454727/182093740-567ca651-d1a8-44c4-bc3b-1277ef3289cf.PNG)
 
 For this project, I used different classification models to predict the status of different water points in Tanzania. There are three status groups to be predicted i.e 
 - Functional,
