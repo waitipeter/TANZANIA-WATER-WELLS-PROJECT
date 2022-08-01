@@ -1,5 +1,6 @@
 
 # TANZANIA-WATER-POINTS PREDICTION USING CLASSIFICATION MODELS
+![tz 2](https://user-images.githubusercontent.com/104454727/182093740-567ca651-d1a8-44c4-bc3b-1277ef3289cf.PNG)
 
 For this project, I used different classification models to predict the status of different water points in Tanzania. There are three status groups to be predicted i.e 
 - Functional,
@@ -7,7 +8,7 @@ For this project, I used different classification models to predict the status o
 - Functional Needs repair. 
 This makes this problem a Ternary classification but for  better classification I combined functional water points and functional needs repair as class 1 and non-funtional water points as class 0. 
 ## Business Problem:
-An NGO focused on locating wells that needs repair. The Tanzanian government is looking to find patterns in non-functional wells to influence how new wells are built. As an employee of the NGO i have been tasked with presenting findings on how the Ministry of Water can identify wells that are non-functional or in need of repair, so
+An NGO focused on locating wells that needs repair. The Tanzanian government is looking to find patterns in non-functional wells to influence how new wells are built. As an employee of the NGO i have been tasked with presenting findings on how the Ministry of Water can identify wells that are non-functional or in need of repair, so so that they can dispatch teams to fix them
 ## Requirements
 This project requires that;
 
