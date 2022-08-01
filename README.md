@@ -8,7 +8,7 @@ For this project, I used different classification models to predict the status o
 - Functional Needs repair. 
 This makes this problem a Ternary classification but for  better classification I combined functional water points and functional needs repair as class 1 and non-funtional water points as class 0. 
 ## Business Problem:
-An NGO focused on locating wells that needs repair. The Tanzanian government is looking to find patterns in non-functional wells to influence how new wells are built. As an employee of the NGO i have been tasked with presenting findings on how the Ministry of Water can identify wells that are non-functional or in need of repair, so
+An NGO focused on locating wells that needs repair. The Tanzanian government is looking to find patterns in non-functional wells to influence how new wells are built. As an employee of the NGO i have been tasked with presenting findings on how the Ministry of Water can identify wells that are non-functional or in need of repair, so so that they can dispatch teams to fix them
 ## Requirements
 This project requires that;
 
